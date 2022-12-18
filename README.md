@@ -54,7 +54,8 @@ Specialization contains series of 5 courses.
   - [3.2. Trigger Word Detection](https://github.com/Filip-231/Deep-Learning/blob/master/Sequence%20Models/Week%203/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)
   - [4.1. Transformer Network](https://github.com/Filip-231/Deep-Learning/blob/master/Sequence%20Models/Week%204/Transformer%20Network/C5_W4_A1_Transformer_Subclass_v1.ipynb)
   - [4.2. Named-Entity Recognition](https://github.com/Filip-231/Deep-Learning/blob/master/Sequence%20Models/Week%204/Named%20Entity%20Recognition/Transformer_application_Named_Entity_Recognition.ipynb)
-  - [4.3. Question Answering](https://github.com/Filip-231/Deep-Learning/blob/master/Sequence%20Models/Week%204/Question%20Answering/QA_transformer.ipynb)
+
+[//]: # (  - [4.3. Question Answering]&#40;https://github.com/Filip-231/Deep-Learning/blob/master/Sequence%20Models/Week%204/Question%20Answering/QA_transformer.ipynb&#41;)
 
 # My Certifications
 ### 1. Neural Networks and Deep Learning.
