@@ -13,8 +13,12 @@ Specialization contains series of 5 courses.
 - pandas
 - transformers
 - re
-- pandas
 - pytorch
+- scipy
+- h5py
+- math
+- sklearn
+- json
 
 ## Programming Assignments
 
